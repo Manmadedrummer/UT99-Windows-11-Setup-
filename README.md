@@ -1,16 +1,16 @@
 # Unreal Tournament ’99 (GOTY) – Modernized Setup Guide
 
-This guide walks you through installing Unreal Tournament ’99 (Game of the Year Edition) plus essential community patches and HD upgrades.
+This guide walks you through installing Unreal Tournament ’99 (Game of the Year Edition) along with essential community patches and HD upgrades.
 
 ---
 
 ## ✅ Step 1 — Get Unreal Tournament ’99 (GOTY)
 
-Download the full game installer from OldUnreal (official community host — no piracy required):
+The full game installer is included in this repo as:
 
-👉 https://www.oldunreal.com/downloads/unrealtournament/full-game-installers/
+**ut_goty.zip**
 
-Install the game normally before continuing.
+Extract and install the game normally before continuing.
 
 ---
 
@@ -26,7 +26,10 @@ Fixes bugs, improves compatibility, and modernizes the engine.
 ---
 
 ### 2. UT Audio & Visual Tweaking Guide + Bonus Pack 4  
-Included in the Repo
+
+Bonus Pack 4 is included in this repo as:
+
+**BonusPack4-no-umod.zip**
 
 Includes Bonus Pack 4 and recommended audio/visual improvements.
 
@@ -61,9 +64,9 @@ Install in this exact order:
 
 Typical install path:
 
-(or wherever you installed UT99)
 ```C:\UnrealTournament\```
 
+(or wherever you installed UT99)
 
 ---
 
