@@ -26,7 +26,7 @@ Fixes bugs, improves compatibility, and modernizes the engine.
 ---
 
 ### 2. UT Audio & Visual Tweaking Guide + Bonus Pack 4  
-https://ut99.org/viewtopic.php?t=373  
+Included in the Repo
 
 Includes Bonus Pack 4 and recommended audio/visual improvements.
 
